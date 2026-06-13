@@ -1,2 +1,0 @@
-# panaderia_oaxaca
-Cuestionario 
