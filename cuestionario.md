@@ -18,7 +18,6 @@ Nota: Las respuestas serán utilizadas para elaborar los diagramas AS-IS y TO-BE
 ¿Cómo se comunican las vendedoras con el área de producción cuando se está agotando algún producto?
 
 
-
 3. Problemas y desperdicios
 ¿Cuál es el problema que más le duele o le genera pérdidas en el día a día?
 ¿Cuánto pan calcula que se pierde o no se vende por día (en piezas o kilos)? ¿Qué hacen con ese pan sobrante?
